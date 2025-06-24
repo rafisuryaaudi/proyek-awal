@@ -1,0 +1,107 @@
+{
+  "name": "Ceritakan Pengalamanmu",
+  "short_name": "Ceritamu",
+  "description": "Aplikasi berbagi cerita yang bisa digunakan secara offline.",
+<<<<<<< HEAD
+  "start_url": "/",
+=======
+  "start_url": "/index.html",
+>>>>>>> e81882fc8e4c9cd67c1372c0c492ddaea05be552
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#af69ee",
+  "icons": [
+    {
+<<<<<<< HEAD
+      "src": "/images/icons/icon-x144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/maskable-icon-x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/icons/maskable-icon-x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/icons/maskable-icon-x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/icons/maskable-icon-x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+=======
+      "src": "/images/icons/icon-x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/icon-x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/icon-x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/icon-x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+>>>>>>> e81882fc8e4c9cd67c1372c0c492ddaea05be552
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tambah Cerita",
+      "short_name": "Tambah",
+      "description": "Tambahkan cerita baru",
+<<<<<<< HEAD
+      "url": "/#/form",
+=======
+      "url": "/add.html",
+>>>>>>> e81882fc8e4c9cd67c1372c0c492ddaea05be552
+      "icons": [
+        {
+          "src": "/images/icons/add-icon.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Cerita Favorit",
+      "short_name": "Favorit",
+      "description": "Lihat cerita favorit Anda",
+<<<<<<< HEAD
+      "url": "/#/bookmark",
+=======
+      "url": "/favorites.html",
+>>>>>>> e81882fc8e4c9cd67c1372c0c492ddaea05be552
+      "icons": [
+        {
+          "src": "/images/icons/favorite-icon.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
